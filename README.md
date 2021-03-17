@@ -7,7 +7,7 @@
 
 <h6>Author : RKT</h6>
 
-Automatically install all Kali linux tools(katoolin version :4).Its build on python program.It is a accurate tool for installing kali linux tools.
+Automatically install all Kali linux tools(katoolin version :5).Its build on python program.It is a accurate tool for installing kali linux tools.
 # Features
 - Add Kali linux repositories
 - Remove kali linux repositories
@@ -18,7 +18,7 @@ Automatically install all Kali linux tools(katoolin version :4).Its build on pyt
 - An operating system (tested on Ubuntu&Linuxmint)
 
 # Installation
-- git clone https://github.com/r3k4t/katoolin4.git
+- git clone https://github.com/r3k4t/katoolin5.git
 - cd katoolin
 - sudo python katoolin.py
 
