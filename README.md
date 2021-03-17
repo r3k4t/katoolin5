@@ -16,7 +16,7 @@ Automatically install all Kali linux tools(katoolin version :5).Its build on pyt
 
 # Requirements
 - Python 
-- An operating system (tested on Ubuntu&Linuxmint)
+- Operating system (tested on Ubuntu&Linuxmint)
 
 # Installation
 - git clone https://github.com/r3k4t/katoolin5.git
