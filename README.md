@@ -1,6 +1,6 @@
 
 [![python](https://img.shields.io/badge/Program-Python-brightgreen.svg)](https://www.python.org/downloads/release/python/)
-[![OS](https://img.shields.io/badge/Tested%20On-Linux-yellowgreen.svg)(https://en.wikipedia.org/wiki/Linux)]
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-yellowgreen.svg)](https://en.wikipedia.org/wiki/Linux)
 # Katoolin V.4
 
 ![Screenshot at 2021-03-17 07-14-45](https://user-images.githubusercontent.com/69615463/111402759-fcb8a180-86f5-11eb-9e33-e30ab832916c.png)
