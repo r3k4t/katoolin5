@@ -15,7 +15,7 @@ Automatically install all Kali linux tools(katoolin version :4).Its build on pyt
 
 
 # Installation
-- git clone https://github.com/r3k4t/katoolin.git
+- git clone https://github.com/r3k4t/katoolin4.git
 - cd katoolin
 - sudo python katoolin.py
 
